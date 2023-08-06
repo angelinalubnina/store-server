@@ -1,0 +1,5 @@
+// UserAppService
+// BasketDeviceAppService
+добавила в domainModels модель Basket
+добавила в IBasketDomainService метод getByName
+добавила BrandAppService в appService
